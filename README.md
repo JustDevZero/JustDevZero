@@ -9,7 +9,7 @@
   <a href="https://es.linkedin.com/in/justdevzero"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-justdevzero-0a66c2?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="https://x.com/ripollforge"><img alt="X" src="https://img.shields.io/badge/X-ripollforge-000000?style=flat-square&logo=x&logoColor=white"></a>
   <a href="https://www.instagram.com/ripoll.forge/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ripoll.forge-e4405f?style=flat-square&logo=instagram&logoColor=white"></a>
-  <a href="mailto:i@danielripoll.es"><img alt="Email" src="https://img.shields.io/badge/email-i@danielripoll.es-c5d1de?style=flat-square&logo=maildotru&logoColor=white"></a>
+  <a href="https://danielripoll.es"><img alt="Contact" src="https://img.shields.io/badge/contact-danielripoll.es-4ade80?style=flat-square&logo=hackthebox&logoColor=white"></a>
 </p>
 
 ---
@@ -42,6 +42,7 @@ pequeñas herramientas que quitan fricción.
 
 ### Projects
 
+- **[danielripoll.es](https://danielripoll.es)** — my personal site, where I rant about DevOps and fitness on the **[blog](https://danielripoll.es/blog/)**. Drop me a line through the **Contacto** button there.
 - **[dotfiles](https://github.com/JustDevZero/dotfiles)** — personal dotfiles for zsh, bash, git, vim, emacs, Ruby, Python and macOS. POSIX bootstrap, multi-distro package install and a Starship prompt.
 
-<sub>🖥️ More at <a href="https://justdevzero.github.io">justdevzero.github.io</a></sub>
+<sub>🖥️ More at <a href="https://justdevzero.github.io">justdevzero.github.io</a> · ✍️ blog at <a href="https://danielripoll.es/blog/">danielripoll.es/blog</a></sub>
