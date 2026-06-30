@@ -9,6 +9,7 @@
   <a href="https://es.linkedin.com/in/justdevzero"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-justdevzero-0a66c2?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="https://x.com/ripollforge"><img alt="X" src="https://img.shields.io/badge/X-ripollforge-000000?style=flat-square&logo=x&logoColor=white"></a>
   <a href="https://www.instagram.com/ripoll.forge/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ripoll.forge-e4405f?style=flat-square&logo=instagram&logoColor=white"></a>
+  <a href="https://www.threads.net/@ripoll.forge"><img alt="Threads" src="https://img.shields.io/badge/Threads-ripoll.forge-000000?style=flat-square&logo=threads&logoColor=white"></a>
   <a href="https://danielripoll.es"><img alt="Contact" src="https://img.shields.io/badge/contact-danielripoll.es-4ade80?style=flat-square&logo=hackthebox&logoColor=white"></a>
 </p>
 
